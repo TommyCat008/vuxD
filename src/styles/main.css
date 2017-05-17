@@ -1,0 +1,31 @@
+/*
+* @Author: walkman
+* @Date:   2017-04-26 19:06:36
+* @Last Modified by:   walkman
+* @Last Modified time: 2017-04-27 14:02:53
+*/
+.weui-tabbar__item.weui-bar__item_on .weui-tabbar__icon, 
+.weui-tabbar__item.weui-bar__item_on .weui-tabbar__icon > i,
+.weui-tabbar__item.weui-bar__item_on .weui-tabbar__label{
+ 	color: #40E0D0 !important;
+}
+.weui-grids:before{
+	border-top: none !important;
+}
+.weui-grids {
+    background-color: #f7f7f7 !important;
+}
+.weui-grids:after{
+	border-left: none !important;
+}
+.weui-tabbar{
+	background-color: #fff !important;
+	position: fixed !important;
+}
+.weui-grid{
+	background-color: #fff !important;
+}
+.warpper-container{
+	overflow-y: scroll;
+	margin-bottom: 53px;
+}
